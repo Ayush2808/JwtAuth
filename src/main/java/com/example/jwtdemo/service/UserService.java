@@ -1,8 +1,9 @@
 package com.example.jwtdemo.service;
 
 import com.example.jwtdemo.Repository.UserRepository;
-import com.example.jwtDemo.model.User;
 
+
+import com.example.jwtdemo.model.User;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
